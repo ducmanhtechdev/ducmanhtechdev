@@ -1,29 +1,44 @@
-<h1 align="center">Xin chào 👋, tôi là Đức Mạnh (ducmanhsuperdev)</h1>
-<h3 align="center">Lập trình viên thông thường</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ducmanhsuperdev&label=Profile%20views&color=0e75b6&style=flat" alt="ducmanhsuperdev" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ducmanhsuperdev" alt="ducmanhsuperdev" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<div align="center">
+  
+| <img width=300/>|<img width=800/>|
+| :-----: | :-: |
+| Facebook | [**Đức Mạnh **](https://www.facebook.com/ducmanh0206)  |
+| Youtube | [**DMTech**](https://www.youtube.com/@Ducmanhtechandgame) |
+| My blogs | [**Duc Manh Blog**](https://ducmanhdev.id.vn/) |
+| University | [**Vietnam-Korea University of Information and Communication Technology**](http://www.vku.udn.vn/) |
+| Contact | **<06022006ducmanh@gmail.com>** |
+| <img width=300/> |  |
+  
+</div>
+ <hr>
 
-- 🌱 Hiện tại tôi đang học **Công nghệ thông tin tại Đại học Việt Nam Hàn Quốc**
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
+![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)
 
-- 💬 Hỏi tôi về **html, css**
+<hr>
 
-- 📫 Cách liên hệ với tôi **06022006ducmanh@gmail.com**
+<p align="center">
 
-<h3 align="left">Kết nối với tôi:</h3>
-<p align="left">
-<a href="https://fb.com/ducmanh0206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ducmanh0206" height="30" width="40" /></a>
+![](./github-metrics.svg)
 </p>
 
-<h3 align="left">Ngôn ngữ và Công cụ:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+### <p align="center"> I create projects for my blog posts, sometimes just for fun. You are free to use my projects. </br>I am really glad to see you here ! </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ducmanhsuperdev&show_icons=true&locale=en&layout=compact" alt="ducmanhsuperdev" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ducmanhsuperdev&show_icons=true&locale=en" alt="ducmanhsuperdev" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ducmanhsuperdev&" alt="ducmanhsuperdev" /></p>
-
+## <p align="center">💔💙💓💝 THANK YOU 💚💗💘💖</p>
