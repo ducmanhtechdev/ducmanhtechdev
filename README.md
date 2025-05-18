@@ -34,7 +34,7 @@
 <hr>
 
 <p align="center">
-|[Follower] (https://img.shields.io/github/followers/ducmanhtechdev?style=social)
+![Follower] (https://img.shields.io/github/followers/ducmanhtechdev?style=social)
 </p>
 
 ### <p align="center"> I create projects for my blog posts, sometimes just for fun. You are free to use my projects. </br>I am really glad to see you here ! </p>
