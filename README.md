@@ -34,7 +34,7 @@
 <hr>
 
 <p align="center">
-|[Follower] [https://img.shields.io/github/followers/ducmanhtechdev?style=social&]nbsp
+|[Follower] (https://img.shields.io/github/followers/ducmanhtechdev?style=social)
 ![](./github-metrics.svg)
 </p>
 
