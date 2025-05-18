@@ -14,8 +14,6 @@
   
 </div>
  <hr>
-
-
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
@@ -30,12 +28,10 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)
-
 <hr>
 
-<p align="center">
-![Follower] (https://img.shields.io/github/followers/ducmanhtechdev?style=social)
-</p>
+
+![Followers](https://img.shields.io/github/followers/ten-user?style=social)
 
 ### <p align="center"> I create projects for my blog posts, sometimes just for fun. You are free to use my projects. </br>I am really glad to see you here ! </p>
 
